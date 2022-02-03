@@ -1,0 +1,15 @@
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\bin\Debug\net6.0\MarsRover.exe
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\bin\Debug\net6.0\MarsRover.deps.json
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\bin\Debug\net6.0\MarsRover.runtimeconfig.json
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\bin\Debug\net6.0\MarsRover.dll
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\bin\Debug\net6.0\ref\MarsRover.dll
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\bin\Debug\net6.0\MarsRover.pdb
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\MarsRover.csproj.AssemblyReference.cache
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\MarsRover.AssemblyInfoInputs.cache
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\MarsRover.AssemblyInfo.cs
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\MarsRover.csproj.CoreCompileInputs.cache
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\MarsRover.dll
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\ref\MarsRover.dll
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\MarsRover.pdb
+c:\Sviluppo\Kata\MarsRover-CSharp\MarsRover\obj\Debug\net6.0\MarsRover.genruntimeconfig.cache
